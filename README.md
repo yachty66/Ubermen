@@ -2,6 +2,9 @@
 - # Nap times for 20min
     - 8pm, 12pm, 4am, 8am, 12am, 4pm
 
+- # Start
+    - first nap is 16.05.2022 8pm 
+
 - # Preperation
     - ## Why do you want it?
         - Time win
