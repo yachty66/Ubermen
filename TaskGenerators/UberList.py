@@ -4,7 +4,7 @@ import random
 import config
 
 key = config.API_TOKEN
-projectId = config.PROJECT_ID
+projectId = config.PROJECT_ID_UberList
 api = TodoistAPI(key)
 api.sync()
 listWithAllUberListTasks = []
