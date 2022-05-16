@@ -35,11 +35,12 @@
     - google sheet
   - ## Cognitive performance
     - ### Typing speed
-      - 5 minutes typing speed https://typing-speed.net/
+      - 1 minute typing speed https://typing-speed.net/
       - Tastenanschläge, Zeichen, Wörter pro Minute in [Google sheet](https://docs.google.com/spreadsheets/d/1WDMu-WaBP2z2EyajL5h2_1bL624rkUQIdvv55FT9pig/edit#gid=0)
       - after every nap if possible - in the case not possible because appointment drop out for cycle
 
 - # Ubermen specific routines
+
   - ## Streaming
     - 25 min Twitch per day
     - topics = ubermen, books
@@ -67,4 +68,4 @@
 
 - # Critical time
   - time where extreme difficult to stay awake
-  - get random tasks from UberList via Python script UberCannotDecideList
+  - get random tasks from UberCannotDecideList via Python script
